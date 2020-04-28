@@ -20,3 +20,11 @@
     font-size:5vh;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+.submit{
+    background-image: linear-gradient(to right,rgb(168, 7, 7),rgb(221, 201, 16));
+    font-family: 'Permanent Marker', cursive;
+}
+.me{
+    max-width: 300px;
+    max-height: 300px;
+}
