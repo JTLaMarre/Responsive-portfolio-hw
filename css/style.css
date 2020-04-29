@@ -8,7 +8,7 @@
     font-size:5vh;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
-.AboutMe{
+h1{
     font-family: 'Permanent Marker', cursive;
     color:rgb(240, 112, 8);
     font-size:5vh;
@@ -28,3 +28,12 @@
     max-width: 300px;
     max-height: 300px;
 }
+.placholder{
+    margin:10px;
+    max-width: 150px;
+    max-height: 150px;
+}
+footer{
+    background-image: linear-gradient(to right,rgb(168, 7, 7),rgb(221, 201, 16));
+    font-family: 'Permanent Marker', cursive;
+    }
