@@ -14,6 +14,11 @@ h1{
     font-size:5vh;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
+h2{
+    font-family: 'Permanent Marker', cursive;
+    color:rgb(240, 112, 8);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
 .contact{
     font-family: 'Permanent Marker', cursive;
     color:rgb(240, 112, 8);
@@ -46,7 +51,7 @@ footer{
     height:400px;
 }
 .deploy{
-    color:rgb(240, 112, 8);
-    font-size:5vh;
+    font-size: large;
+    font-family: 'Permanent Marker', cursive;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
 }
