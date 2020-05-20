@@ -37,3 +37,7 @@ footer{
     background-image: linear-gradient(to right,rgb(168, 7, 7),rgb(221, 201, 16));
     font-family: 'Permanent Marker', cursive;
     }
+    .swiper-container {
+        width: 600px;
+        height: 300px;
+    }
