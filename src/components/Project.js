@@ -4,32 +4,32 @@ import React, { Component, Fragment } from 'react'
 const projects = [
     {
         name: 'Pizza Tracker',
-        img: "./images/Pizza.PNG",
+        img: "../Pizza.PNG",
         deploy: "https://pizza--tracker.herokuapp.com/"
     },
     {
         name: 'TrailHeads',
-        img: "./images/trailheads.PNG",
+        img: "../trailheads.PNG",
         deploy: "https://lu-gflores.github.io/TrailHeads/"
     },
     {
         name: 'weatherDash',
-        img: "./images/weatherdash.PNG",
+        img: "../weatherdash.PNG",
         deploy: "https://jtlamarre.github.io/Weather_dashboard/"
     },
     {
         name: 'Work Day Schedule',
-        img: "./images/Work day scheduler.PNG",
+        img: "../Work day scheduler.PNG",
         deploy: "https://jtlamarre.github.io/Day_Planner/"
     },
     {
         name: 'Burger Game',
-        img: "./images/Screenshot.PNG",
+        img: "../Screenshot.PNG",
         deploy: "https://sheltered-chamber-49316.herokuapp.com/"
     },
     {
         name: 'Employee Directory',
-        img: "./images/EmployScreen1.PNG",
+        img: "../EmployScreen1.PNG",
         deploy: "https://jtlamarre.github.io/EmployeeDirectory/"
     },
 ]
