@@ -8,7 +8,7 @@ const home = () => {
       <Header />
       <div className="columns is-centered">
     <div className="column is-one-quarter">
-        <img src="../images/mePic.jpg" alt="Me"></img>
+        <img src="../mePic.jpg" alt="Me"></img>
     </div>
     <div className="column is-half">
         <h2> my info</h2>
