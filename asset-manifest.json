@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Responsiv-portfolio/static/css/main.0036443b.chunk.css",
-    "main.js": "/Responsiv-portfolio/static/js/main.d761ab9d.chunk.js",
-    "main.js.map": "/Responsiv-portfolio/static/js/main.d761ab9d.chunk.js.map",
-    "runtime-main.js": "/Responsiv-portfolio/static/js/runtime-main.64b0388a.js",
-    "runtime-main.js.map": "/Responsiv-portfolio/static/js/runtime-main.64b0388a.js.map",
-    "static/js/2.4f315f50.chunk.js": "/Responsiv-portfolio/static/js/2.4f315f50.chunk.js",
-    "static/js/2.4f315f50.chunk.js.map": "/Responsiv-portfolio/static/js/2.4f315f50.chunk.js.map",
-    "index.html": "/Responsiv-portfolio/index.html",
-    "precache-manifest.7c27d83c765940dc088893e561d727c9.js": "/Responsiv-portfolio/precache-manifest.7c27d83c765940dc088893e561d727c9.js",
-    "service-worker.js": "/Responsiv-portfolio/service-worker.js",
-    "static/css/main.0036443b.chunk.css.map": "/Responsiv-portfolio/static/css/main.0036443b.chunk.css.map",
-    "static/js/2.4f315f50.chunk.js.LICENSE.txt": "/Responsiv-portfolio/static/js/2.4f315f50.chunk.js.LICENSE.txt"
+    "main.css": "/Responsive-portfolio/static/css/main.0036443b.chunk.css",
+    "main.js": "/Responsive-portfolio/static/js/main.576a6b21.chunk.js",
+    "main.js.map": "/Responsive-portfolio/static/js/main.576a6b21.chunk.js.map",
+    "runtime-main.js": "/Responsive-portfolio/static/js/runtime-main.9ca7463e.js",
+    "runtime-main.js.map": "/Responsive-portfolio/static/js/runtime-main.9ca7463e.js.map",
+    "static/js/2.4f315f50.chunk.js": "/Responsive-portfolio/static/js/2.4f315f50.chunk.js",
+    "static/js/2.4f315f50.chunk.js.map": "/Responsive-portfolio/static/js/2.4f315f50.chunk.js.map",
+    "index.html": "/Responsive-portfolio/index.html",
+    "precache-manifest.d841397b50d586b9d7186e2e773f6b12.js": "/Responsive-portfolio/precache-manifest.d841397b50d586b9d7186e2e773f6b12.js",
+    "service-worker.js": "/Responsive-portfolio/service-worker.js",
+    "static/css/main.0036443b.chunk.css.map": "/Responsive-portfolio/static/css/main.0036443b.chunk.css.map",
+    "static/js/2.4f315f50.chunk.js.LICENSE.txt": "/Responsive-portfolio/static/js/2.4f315f50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.64b0388a.js",
+    "static/js/runtime-main.9ca7463e.js",
     "static/js/2.4f315f50.chunk.js",
     "static/css/main.0036443b.chunk.css",
-    "static/js/main.d761ab9d.chunk.js"
+    "static/js/main.576a6b21.chunk.js"
   ]
 }
