@@ -7,10 +7,8 @@ const Portfolio = (props) => {
     return (
         <div>
             <Header />
-            <div className="columns is-multiline">
             <Project />
-         </div>
-         <Footer/>
+            <Footer/>
          </div>
     );
 }
