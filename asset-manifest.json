@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/Responsive-portfolio/static/css/main.0036443b.chunk.css",
-    "main.js": "/Responsive-portfolio/static/js/main.576a6b21.chunk.js",
-    "main.js.map": "/Responsive-portfolio/static/js/main.576a6b21.chunk.js.map",
+    "main.css": "/Responsive-portfolio/static/css/main.561a7460.chunk.css",
+    "main.js": "/Responsive-portfolio/static/js/main.acd08fc5.chunk.js",
+    "main.js.map": "/Responsive-portfolio/static/js/main.acd08fc5.chunk.js.map",
     "runtime-main.js": "/Responsive-portfolio/static/js/runtime-main.9ca7463e.js",
     "runtime-main.js.map": "/Responsive-portfolio/static/js/runtime-main.9ca7463e.js.map",
-    "static/js/2.4f315f50.chunk.js": "/Responsive-portfolio/static/js/2.4f315f50.chunk.js",
-    "static/js/2.4f315f50.chunk.js.map": "/Responsive-portfolio/static/js/2.4f315f50.chunk.js.map",
+    "static/js/2.8fedf7b4.chunk.js": "/Responsive-portfolio/static/js/2.8fedf7b4.chunk.js",
+    "static/js/2.8fedf7b4.chunk.js.map": "/Responsive-portfolio/static/js/2.8fedf7b4.chunk.js.map",
     "index.html": "/Responsive-portfolio/index.html",
-    "precache-manifest.d841397b50d586b9d7186e2e773f6b12.js": "/Responsive-portfolio/precache-manifest.d841397b50d586b9d7186e2e773f6b12.js",
+    "precache-manifest.f8f78987ddb4a4f08911afa051623ba5.js": "/Responsive-portfolio/precache-manifest.f8f78987ddb4a4f08911afa051623ba5.js",
     "service-worker.js": "/Responsive-portfolio/service-worker.js",
-    "static/css/main.0036443b.chunk.css.map": "/Responsive-portfolio/static/css/main.0036443b.chunk.css.map",
-    "static/js/2.4f315f50.chunk.js.LICENSE.txt": "/Responsive-portfolio/static/js/2.4f315f50.chunk.js.LICENSE.txt"
+    "static/css/main.561a7460.chunk.css.map": "/Responsive-portfolio/static/css/main.561a7460.chunk.css.map",
+    "static/js/2.8fedf7b4.chunk.js.LICENSE.txt": "/Responsive-portfolio/static/js/2.8fedf7b4.chunk.js.LICENSE.txt",
+    "static/media/EmployScreen1.PNG": "/Responsive-portfolio/static/media/EmployScreen1.49d691f4.PNG",
+    "static/media/LetsGuess.PNG": "/Responsive-portfolio/static/media/LetsGuess.fb1bd075.PNG",
+    "static/media/Pizza.PNG": "/Responsive-portfolio/static/media/Pizza.6957237c.PNG",
+    "static/media/Screenshot.PNG": "/Responsive-portfolio/static/media/Screenshot.5c6dd974.PNG",
+    "static/media/Work day scheduler.PNG": "/Responsive-portfolio/static/media/Work day scheduler.db182b93.PNG",
+    "static/media/mePic.jpg": "/Responsive-portfolio/static/media/mePic.e29b57ab.jpg",
+    "static/media/trailheads.PNG": "/Responsive-portfolio/static/media/trailheads.2cc86e6e.PNG",
+    "static/media/weatherdash.PNG": "/Responsive-portfolio/static/media/weatherdash.fa66c0dd.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.9ca7463e.js",
-    "static/js/2.4f315f50.chunk.js",
-    "static/css/main.0036443b.chunk.css",
-    "static/js/main.576a6b21.chunk.js"
+    "static/js/2.8fedf7b4.chunk.js",
+    "static/css/main.561a7460.chunk.css",
+    "static/js/main.acd08fc5.chunk.js"
   ]
 }
